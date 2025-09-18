@@ -1,0 +1,41 @@
+.page__header {
+  background-color: pink;
+  padding-top: 3rem;
+  margin: 0;
+  padding-bottom: 1rem;
+}
+h1 {
+  text-align: center;
+  padding: 2rem;
+  font-family: "Modak", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 4rem;
+  color: #FF5733;
+  
+}
+
+//formulario
+.form {
+  text-align: center;
+}
+
+.form__input, .form__button {
+  border: 0;
+  padding: 0.3rem;
+  background-color: #D1FFBD;
+
+}
+
+.form__button {
+  width: 10%;
+}
+
+.form__button:hover {
+  background-color: #CBC3E3;
+  
+}
+
+.form__input {
+  width: 60%;
+}
